@@ -1,0 +1,24 @@
+[
+{
+	"id" : "coolbase64",
+	"caption" : "CoolBase64",
+	"children" :
+	[
+		{
+	    "id" : "base64_encode",
+	    "caption" : "Encode to Base64",
+	    "command" : "base64_encode"
+		},
+		{
+	    "id" : "base64_decode",
+	    "caption" : "Decode from Base64",
+	    "command" : "base64_decode"
+		},
+		{
+	    "id" : "copy_file_as_base64_web_url",
+    	"caption" : "Copy File as Base64 Web URL",
+    	"command" : "copy_file_as_base64_web_url"
+		}
+	]
+}
+]

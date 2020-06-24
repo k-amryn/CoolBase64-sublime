@@ -1,0 +1,12 @@
+[
+{
+    "id" : "copy_file_as_base64",
+    "caption" : "Copy File as Base64",
+    "command" : "copy_file_as_base64"
+},
+{
+    "id" : "copy_file_as_base64_web_url",
+    "caption" : "Copy File as Base64 Web URL",
+    "command" : "copy_file_as_base64_web_url"
+}
+]

@@ -1,0 +1,6 @@
+[
+	{"caption" : "CoolBase64: Copy File as Base64", "command" : "copy_file_as_base64"},
+	{"caption" : "CoolBase64: Copy File as Base64 Web URL", "command" : "copy_file_as_base64_web_url"},
+	{"caption" : "CoolBase64: Encode Selected Text to Base64", "command" : "base64_encode"},
+	{"caption" : "CoolBase64: Decode Selected Text from Base64", "command" : "base64_decode"}
+]

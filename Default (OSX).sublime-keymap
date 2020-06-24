@@ -1,0 +1,14 @@
+[
+{ 
+	"keys": ["alt+shift+e"],
+	"command": "base64_encode"
+},
+{ 
+	"keys": ["alt+shift+d"],
+	"command": "base64_decode"
+},
+{ 
+	"keys": ["alt+shift+u"],
+	"command": "copy_file_as_base64_web_url"
+}
+]
