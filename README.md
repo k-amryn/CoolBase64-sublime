@@ -13,10 +13,10 @@
 	whatever filetype to the beginning of the Base64 encoding. Works
 	with any filetype but designed for browser-playable media files.
 
-`alt+shift+u`: Copy current file as a Base64 web URL
-`alt+shift+e` on selected text: Encode to Base64 in place
-`alt+shift+e` without selected text: Copy whole file as Base64 text
-`alt+shift+d` on selected Base64 text: Decode from Base64
+- `alt+shift+u`: Copy current file as a Base64 web URL
+- `alt+shift+e` on selected text: Encode to Base64 in place
+- `alt+shift+e` without selected text: Copy whole file as Base64 text
+- `alt+shift+d` on selected Base64 text: Decode from Base64
 
 Right click on tab: 
 1. Copy file as Base64
