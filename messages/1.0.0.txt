@@ -1,7 +1,5 @@
-CoolBase64 for Sublime Text 3
-
-This plugin includes a few functions for encoding to and from
-the Base64 format:
+# CoolBase64-sublime
+ Sublime Text 3 plugin with a few functions for encoding to and from Base64 
 
 1. Encode selected text to Base64
 2. Decode selected Base64 to normal text
@@ -15,8 +13,11 @@ the Base64 format:
 	whatever filetype to the beginning of the Base64 encoding. Works
 	with any filetype but designed for browser-playable media files.
 
-alt+shift+u: Copy current file as a Base64 web URL
-alt+shift+e on selected text: Encode to Base64 in place
-alt+shift+e without selected text: Copy whole file as Base64 text
-alt+shift+d on selected Base64 text: Decode from Base64
+`alt+shift+u`: Copy current file as a Base64 web URL
+`alt+shift+e` on selected text: Encode to Base64 in place
+`alt+shift+e` without selected text: Copy whole file as Base64 text
+`alt+shift+d` on selected Base64 text: Decode from Base64
 
+Right click on tab: 
+1. Copy file as Base64
+2. Copy file as Base64 web URL
